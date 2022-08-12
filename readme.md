@@ -1,3 +1,5 @@
-# Multi-User Authentication Tutorail
+# Hostel_management_system
 
-_Produced by DevMarketer_
+### A web-based system for Sabaragamuwa University to manage their hostel facilities and students to register the hostel facility online. It is available on several access levels and creates, reads, searches, updates, and deletes operations.
+
+## Technologies: Laravel/PHP/CSS/HTML/MySQ
